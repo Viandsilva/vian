@@ -1,0 +1,6 @@
+{
+  "name": "Senvo Studio",
+  "description": "Senvo Studio is an elite design and fullstack engineering agency combining premium typography and motion science with industrial strength pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
